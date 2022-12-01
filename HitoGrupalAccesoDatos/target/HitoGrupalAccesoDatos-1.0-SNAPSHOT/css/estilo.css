@@ -1,0 +1,28 @@
+#formUser{
+    font-size: 20px;
+}
+
+#formPass{
+    font-size: 20px;
+}
+
+#formJuego{
+    font-size: 20px;
+}
+
+#formGenero{
+    font-size: 20px;
+}
+
+#formValoracion{
+    font-size: 20px;
+}
+
+#tabla{
+    background-color: cornflowerblue;
+    color: black;
+}
+
+#form{
+    background-color: cornflowerblue;
+}
